@@ -1,5 +1,3 @@
-Sure, here's a possible README for your code:
-
 # Matrix Multiplication Program
 
 This is a Python program that allows the user to input two matrices and multiply them. The program uses the `os` and `time` libraries to clear the console and pause the execution for a few seconds to simulate a loading animation.
